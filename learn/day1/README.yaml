@@ -1,0 +1,29 @@
+
+---
+
+# 📘 DAY 1 README  
+
+# Day 1 – Introduction to C++ Programming
+
+This folder contains my Day 1 practice for learning C++ from first principles,
+with a focus on building a foundation for **robotics and surgical systems**.
+
+---
+
+## 📌 Topics Covered
+- What programming is
+- Structure of a C++ program
+- The `main()` function
+- Basic console output using `std::cout`
+- Compilation and execution workflow
+
+---
+
+## 📄 Files
+
+```text
+day1/
+├── lesson1.cpp     # First C++ program
+├── exercise1.cpp   # Output practice
+├── exercise2.cpp   # Multi-line output
+└── README.md       # This file
