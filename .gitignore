@@ -1,9 +1,16 @@
-# colcon build artifacts
+# ===== ROS2 (colcon) build artifacts =====
 ros2_ws/build/
 ros2_ws/install/
 ros2_ws/log/
 
-# editors and temp
+# ===== C/C++ build artifacts =====
+*.o
+*.out
+*.exe
+build/
+
+# ===== Editors and temp files =====
 .vscode/
 __pycache__/
 *.pyc
+
