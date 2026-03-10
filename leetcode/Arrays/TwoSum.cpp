@@ -21,3 +21,11 @@ public:
         return{};
     }
 };
+/*Pseudo Code
+create empty map
+for i from 0 to n
+	y = target - nums[i]
+	if y exists in map 
+		return map[y], i 
+	store nums[i] -> i
+*/
